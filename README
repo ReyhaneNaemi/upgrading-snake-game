@@ -71,9 +71,7 @@
 
 ### 🎬 نسخه‌ی اول — شروع ساده
 
-<p align="center">
-  <img src="images/VERSION1.png" alt="نسخه اول" width="600" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.2);">
-</p>
+![نسخه اول](images/VERSION1.png)
 
 اینجا فقط یه مار ساده بود که میوه می‌خورد. بدون سوال، بدون UI، بدون صدا.
 
@@ -81,10 +79,9 @@
 
 ### 🧮 نسخه‌ی دوم — اضافه شدن سوالات ریاضی
 
-<p align="center">
-  <img src="images/VERSION2-1.png" alt="نسخه دوم - گیم‌پلی" width="48%" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.2);">
-  <img src="images/VERSION2-2.png" alt="نسخه دوم - سوال" width="48%" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.2);">
-</p>
+![نسخه دوم - گیم‌پلی](images/VERSION2-1.png)
+
+![نسخه دوم - سوال](images/VERSION2.png)
 
 اینجا سوالات ریاضی اضافه شد و پشتیبانی از فارسی.
 
@@ -94,50 +91,35 @@
 
 **منوی اصلی:**
 
-![تست](images/VERSION1.png)
+![منوی اصلی](images/VERSION3-1.png)
+
 **گیم‌پلی:**
 
-<p align="center">
-  <img src="images/VERSION3-2.png" alt="گیم‌پلی" width="600" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.2);">
-</p>
+![گیم‌پلی](images/VERSION3-2.png)
 
 **کارت سوال ریاضی:**
 
-<p align="center">
-  <img src="images/VERSION3-3.png" alt="سوال" width="600" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.2);">
-</p>
+![سوال](images/VERSION3-3.png)
 
 **سطح‌آپ:**
 
-<p align="center">
-  <img src="images/VERSION3-4.png" alt="سطح‌آپ" width="600" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.2);">
-</p>
+![سطح‌آپ](images/VERSION3-4.png)
 
 **پایان بازی:**
 
-<p align="center">
-  <img src="images/VERSION3-5.png" alt="پایان بازی" width="600" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.2);">
-</p>
+![پایان بازی](images/VERSION3-5.png)
 
 **تنظیمات:**
 
-<p align="center">
-  <img src="images/VERSION3-6.png" alt="تنظیمات" width="600" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.2);">
-</p>
+![تنظیمات](images/VERSION3-6.png)
 
 **امتیازات:**
 
-<p align="center">
-  <img src="images/VERSION3-7.png" alt="امتیازات" width="600" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.2);">
-</p>
+![امتیازات](images/VERSION3-7.png)
 
 **راهنما:**
 
-<p align="center">
-  <img src="images/VERSION3-8.png" alt="راهنما" width="600" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.2);">
-</p>
-
----
+![راهنما](images/VERSION3-8.png)
 
 ## 🚀 چرا این مخزن رو ساختم؟
 
